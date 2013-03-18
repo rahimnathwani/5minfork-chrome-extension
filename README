@@ -1,4 +1,4 @@
-This chrome extension simply adds a [5 minute fork](http://5minfork.com) button to github repo pages.
+This chrome extension simply adds a "5 min fork" (http://5minfork.com) button to github repo pages.
 
 Currently, to install this extension:
 1. git clone it
