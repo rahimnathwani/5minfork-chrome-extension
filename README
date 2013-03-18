@@ -4,5 +4,7 @@ Currently, to install this extension:
 1. git clone it
 2. Go to 'Extensions' settings panel in Chrome
 3. Enable "[X] Developer mode" at top right
-4. Click "Load unpacked extension..." and browse to where you have this code check out
+4. Click "Load unpacked extension..." and browse to checked out code
 5. Done!
+
+Alternatively, you can also use the userscript version: https://github.com/Sembiance/5minfork-userscript
